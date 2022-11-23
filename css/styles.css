@@ -1,0 +1,28 @@
+body {
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+hr {
+  border-style:none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  margin-top: 10%;
+  width: 5%;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1{
+  color:#283c59;
+}
+h2{
+  color:#375e7b;
+}
+h3{
+  color:#375e7b;
+}
